@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lavanayagarg
+- 👀 I’m interested in writing code and building programs 
+- 🌱 I’m currently learning how to code in Java and data structures 
+- 💞️ I’m looking to collaborate on simple programs that are used in every day math problems 
+- 📫 You can email me at lavanayagarg@gmail.com for any questions 
