@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//showcases how Scanner class works 
 class AllInput{
 public static void main(String s[])
 {
